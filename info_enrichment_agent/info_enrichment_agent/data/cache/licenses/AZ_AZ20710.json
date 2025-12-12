@@ -1,0 +1,13 @@
+{
+  "license_status": "Inactive",
+  "expiration_date": "2025-05-24",
+  "issue_date": "2019-05-08",
+  "license_type": "Medical Doctor",
+  "disciplinary_actions": 0,
+  "verified": false,
+  "notes": "Mock data for demonstration",
+  "license_number": "AZ20710",
+  "state": "AZ",
+  "check_method": "Mock",
+  "check_confidence": 0.5
+}

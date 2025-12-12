@@ -1,0 +1,13 @@
+{
+  "license_status": "Active",
+  "expiration_date": "2028-01-16",
+  "issue_date": "2021-11-01",
+  "license_type": "Medical Doctor",
+  "disciplinary_actions": 0,
+  "verified": true,
+  "notes": "Mock data for demonstration",
+  "license_number": "OH39702",
+  "state": "OH",
+  "check_method": "Mock",
+  "check_confidence": 0.5
+}

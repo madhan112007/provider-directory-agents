@@ -1,0 +1,13 @@
+{
+  "license_status": "Inactive",
+  "expiration_date": "2023-11-30",
+  "issue_date": "2016-08-08",
+  "license_type": "Medical Doctor",
+  "disciplinary_actions": 0,
+  "verified": false,
+  "notes": "Mock data for demonstration",
+  "license_number": "OH72573",
+  "state": "OH",
+  "check_method": "Mock",
+  "check_confidence": 0.5
+}

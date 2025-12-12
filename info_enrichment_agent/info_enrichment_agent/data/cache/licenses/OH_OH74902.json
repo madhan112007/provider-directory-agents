@@ -1,0 +1,13 @@
+{
+  "license_status": "Active",
+  "expiration_date": "2027-10-20",
+  "issue_date": "2012-04-07",
+  "license_type": "Medical License",
+  "disciplinary_actions": 0,
+  "verified": true,
+  "notes": "Mock data for demonstration",
+  "license_number": "OH74902",
+  "state": "OH",
+  "check_method": "Mock",
+  "check_confidence": 0.5
+}

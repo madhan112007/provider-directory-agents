@@ -1,0 +1,43 @@
+{
+  "npi": "1346379021",
+  "provider_type": "M.T",
+  "enumeration_date": "2007-03-05",
+  "years_experience": 18,
+  "career_stage": "Experienced (10-19 years)",
+  "primary_specialty": "Spec/Tech, Pathology, Medical Technologist",
+  "all_specialties": [
+    {
+      "code": "246QM0706X",
+      "description": "Spec/Tech, Pathology, Medical Technologist",
+      "primary": true,
+      "state": "FL",
+      "license": "SU37498"
+    }
+  ],
+  "practice_locations": [
+    {
+      "address": "23535 NW 3RD AVE ",
+      "city": "NEWBERRY",
+      "state": "FL",
+      "zip": "326692267",
+      "phone": "352-472-7236",
+      "type": "MAILING"
+    },
+    {
+      "address": "1601 SW ARCHER RD ",
+      "city": "GAINESVILLE",
+      "state": "FL",
+      "zip": "326081135",
+      "phone": "352-376-1611",
+      "type": "LOCATION"
+    }
+  ],
+  "organization_name": "",
+  "gender": "",
+  "status": "A",
+  "last_updated": "2007-07-08",
+  "npi_confidence": 0.95,
+  "sources": [
+    "npi_registry"
+  ]
+}

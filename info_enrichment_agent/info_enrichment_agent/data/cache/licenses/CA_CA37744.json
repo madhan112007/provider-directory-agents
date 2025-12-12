@@ -1,0 +1,13 @@
+{
+  "license_status": "Active",
+  "expiration_date": "2026-04-29",
+  "issue_date": "2015-01-07",
+  "license_type": "Medical Doctor",
+  "disciplinary_actions": 0,
+  "verified": true,
+  "notes": "Mock data for demonstration",
+  "license_number": "CA37744",
+  "state": "CA",
+  "check_method": "Mock",
+  "check_confidence": 0.5
+}

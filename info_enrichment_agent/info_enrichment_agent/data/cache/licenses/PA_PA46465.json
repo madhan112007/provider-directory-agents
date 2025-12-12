@@ -1,0 +1,13 @@
+{
+  "license_status": "Active",
+  "expiration_date": "2027-05-30",
+  "issue_date": "2012-05-10",
+  "license_type": "Physician Assistant",
+  "disciplinary_actions": 0,
+  "verified": true,
+  "notes": "Mock data for demonstration",
+  "license_number": "PA46465",
+  "state": "PA",
+  "check_method": "Mock",
+  "check_confidence": 0.5
+}

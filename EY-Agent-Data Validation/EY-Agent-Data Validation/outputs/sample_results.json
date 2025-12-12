@@ -1,0 +1,132 @@
+[
+  {
+    "provider_id": "PRV_001",
+    "fields": {
+      "name": {
+        "value": "Dr. John Smith MD",
+        "confidence": 1.0,
+        "tag": "confirmed",
+        "sources": [
+          "input",
+          "npi_registry"
+        ],
+        "last_verified": "2025-12-06T06:12:28.247380"
+      },
+      "npi": {
+        "value": "1234567890",
+        "confidence": 0.95,
+        "tag": "confirmed",
+        "sources": [
+          "npi_registry"
+        ],
+        "last_verified": "2025-12-06T06:12:28.247380"
+      },
+      "specialty": {
+        "value": "Internal Medicine",
+        "confidence": 1.0,
+        "tag": "confirmed",
+        "sources": [
+          "input",
+          "npi_registry"
+        ],
+        "last_verified": "2025-12-06T06:12:28.247380"
+      },
+      "address": {
+        "value": "123 MAIN ST, BOSTON, MA 02101",
+        "confidence": 0.97,
+        "tag": "confirmed",
+        "sources": [
+          "input",
+          "google_maps"
+        ],
+        "last_verified": "2025-12-06T06:12:28.247380"
+      },
+      "phone": {
+        "value": "+16175551234",
+        "confidence": 0.8500000000000001,
+        "tag": "updated",
+        "sources": [
+          "input",
+          "google_maps"
+        ],
+        "last_verified": "2025-12-06T06:12:28.247380"
+      },
+      "email": {
+        "value": "john.smith@clinic.com",
+        "confidence": 0.9,
+        "tag": "confirmed",
+        "sources": [
+          "input"
+        ],
+        "last_verified": "2025-12-06T06:12:28.247380"
+      }
+    },
+    "provider_confidence": 0.945,
+    "validation_time": "2025-12-06T06:12:28.247380"
+  },
+  {
+    "provider_id": "PRV_002",
+    "fields": {
+      "name": {
+        "value": "Dr. Sarah Johnson",
+        "confidence": 1.0,
+        "tag": "confirmed",
+        "sources": [
+          "input",
+          "npi_registry"
+        ],
+        "last_verified": "2025-12-06T06:12:28.429072"
+      },
+      "npi": {
+        "value": "19298970726",
+        "confidence": 0.95,
+        "tag": "confirmed",
+        "sources": [
+          "npi_registry"
+        ],
+        "last_verified": "2025-12-06T06:12:28.429072"
+      },
+      "specialty": {
+        "value": "Cardiology",
+        "confidence": 1.0,
+        "tag": "confirmed",
+        "sources": [
+          "input",
+          "npi_registry"
+        ],
+        "last_verified": "2025-12-06T06:12:28.429072"
+      },
+      "address": {
+        "value": "456 OAK AVE, DALLAS TX",
+        "confidence": 0.95,
+        "tag": "confirmed",
+        "sources": [
+          "input",
+          "google_maps"
+        ],
+        "last_verified": "2025-12-06T06:12:28.429072"
+      },
+      "phone": {
+        "value": "214-555-6789",
+        "confidence": 0.64,
+        "tag": "suspect",
+        "sources": [
+          "input",
+          "google_maps"
+        ],
+        "last_verified": "2025-12-06T06:12:28.429072"
+      },
+      "email": {
+        "value": "sarah.johnson@heartcare.org",
+        "confidence": 0.9,
+        "tag": "confirmed",
+        "sources": [
+          "input"
+        ],
+        "last_verified": "2025-12-06T06:12:28.429072"
+      }
+    },
+    "provider_confidence": 0.9066666666666666,
+    "validation_time": "2025-12-06T06:12:28.429072"
+  }
+]

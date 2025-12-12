@@ -1,0 +1,13 @@
+{
+  "license_status": "Expired",
+  "expiration_date": "2025-08-20",
+  "issue_date": "2018-09-28",
+  "license_type": "Medical Doctor",
+  "disciplinary_actions": 1,
+  "verified": false,
+  "notes": "Mock data for demonstration",
+  "license_number": "DC81143",
+  "state": "WA",
+  "check_method": "Mock",
+  "check_confidence": 0.5
+}

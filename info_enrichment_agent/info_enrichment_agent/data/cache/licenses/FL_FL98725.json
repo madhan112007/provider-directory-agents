@@ -1,0 +1,12 @@
+{
+  "license_status": "Active",
+  "expiration_date": "2025-12-31",
+  "issue_date": "2015-06-15",
+  "license_type": "Medical Doctor",
+  "disciplinary_actions": 0,
+  "verified": true,
+  "license_number": "FL98725",
+  "state": "FL",
+  "check_method": "API",
+  "check_confidence": 0.9
+}

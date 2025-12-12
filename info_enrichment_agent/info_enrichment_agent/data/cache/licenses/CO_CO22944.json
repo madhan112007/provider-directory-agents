@@ -1,0 +1,13 @@
+{
+  "license_status": "Active",
+  "expiration_date": "2027-05-11",
+  "issue_date": "2014-02-27",
+  "license_type": "Medical License",
+  "disciplinary_actions": 0,
+  "verified": true,
+  "notes": "Mock data for demonstration",
+  "license_number": "CO22944",
+  "state": "CO",
+  "check_method": "Mock",
+  "check_confidence": 0.5
+}

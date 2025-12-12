@@ -1,0 +1,11 @@
+provider_id,name,email,phone,address,specialty,validation_status
+P001,Dr. John Smith,dr.smith@hospital.com,555.123.4567,123 Main St Boston MA,cardio,needs_correction
+P002,Dr. Sarah Johnson,sjohnson@clinic.com,(617)555-2345,456 Oak Ave Cambridge,ortho,needs_correction
+P003,Dr. Michael Chen,mchen@medical.com,6175553456,789 Pine St Somerville MA,peds,needs_correction
+P004,Dr. Emily Rodriguez,erodriguez@health.com,617-555-4567,321 Elm St Boston,family practice,needs_correction
+P005,Dr. David Lee,dlee@hospital.com,555-678-9012,654 Maple Ave Cambridge MA,skin doctor,needs_correction
+P006,Dr. Lisa Anderson,landerson@clinic.com,6175555678,987 Cedar Rd Somerville,Internal Medicine,validated
+P007,Dr. Robert Taylor,rtaylor@medical.com,(555) 789-0123,147 Birch St Boston MA,Cardiology,validated
+P008,Dr. Maria Garcia,mgarcia@health.com,555.890.1234,258 Spruce Ave Cambridge,neurologist,needs_correction
+P009,Dr. James Wilson,jwilson@hospital.com,5559012345,369 Willow St Somerville MA,heart doctor,needs_correction
+P010,Dr. Jennifer Brown,jbrown@clinic.com,617-555-0123,741 Ash Rd Boston,Pediatrics,validated

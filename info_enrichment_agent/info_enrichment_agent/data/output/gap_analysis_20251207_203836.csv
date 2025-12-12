@@ -1,0 +1,48 @@
+Metric,Value
+Summary,
+Network Health Score,0.0
+Specialty Gaps Count,10
+Geographic Gaps Count,17
+,
+Specialty Gaps,
+Internal Medicine,Need 5 more (Current: 0)
+Family Medicine,Need 5 more (Current: 0)
+Pediatrics,Need 3 more (Current: 0)
+Psychiatry,Need 3 more (Current: 0)
+General Practice,Need 3 more (Current: 0)
+Cardiology,Need 2 more (Current: 0)
+Orthopedics,Need 2 more (Current: 0)
+Dermatology,Need 2 more (Current: 0)
+Neurology,Need 2 more (Current: 0)
+Surgery,Need 2 more (Current: 0)
+,
+Geographic Gaps,
+TX,Need 3 more (Current: 2)
+TN,Need 3 more (Current: 2)
+SC,Need 3 more (Current: 2)
+CO,Need 3 more (Current: 2)
+MD,Need 3 more (Current: 2)
+IL,Need 3 more (Current: 2)
+FL,Need 3 more (Current: 2)
+LA,Need 3 more (Current: 2)
+NM,Need 3 more (Current: 2)
+GA,Need 3 more (Current: 2)
+SD,Need 3 more (Current: 2)
+MT,Need 3 more (Current: 2)
+WI,Need 4 more (Current: 1)
+CT,Need 4 more (Current: 1)
+NC,Need 4 more (Current: 1)
+VT,Need 4 more (Current: 1)
+IN,Need 4 more (Current: 1)
+,
+Recommendations,
+1. Recruit 5 Internal Medicine provider(s) - URGENT,
+2. Recruit 5 Family Medicine provider(s) - URGENT,
+3. Recruit 3 Pediatrics provider(s) - URGENT,
+4. Recruit 3 Psychiatry provider(s) - URGENT,
+5. Recruit 3 General Practice provider(s) - URGENT,
+6. Recruit 2 Cardiology provider(s) - URGENT,
+7. Recruit 2 Orthopedics provider(s) - URGENT,
+8. Recruit 2 Dermatology provider(s) - URGENT,
+9. Recruit 2 Neurology provider(s) - URGENT,
+10. Recruit 2 Surgery provider(s) - URGENT,

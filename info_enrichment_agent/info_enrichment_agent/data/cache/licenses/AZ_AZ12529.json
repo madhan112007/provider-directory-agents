@@ -1,0 +1,13 @@
+{
+  "license_status": "Active",
+  "expiration_date": "2026-09-08",
+  "issue_date": "2020-12-19",
+  "license_type": "Medical License",
+  "disciplinary_actions": 0,
+  "verified": true,
+  "notes": "Mock data for demonstration",
+  "license_number": "AZ12529",
+  "state": "AZ",
+  "check_method": "Mock",
+  "check_confidence": 0.5
+}

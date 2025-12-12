@@ -1,0 +1,201 @@
+provider_id,name,name_conf,name_tag,address,address_conf,address_tag,phone,phone_conf,phone_tag,specialty,specialty_conf,specialty_tag,npi,npi_conf,npi_tag,provider_confidence
+PRV_001,Jamie Murphy,1.0,confirmed,"11017 SALAZAR MOTORWAY APT. 900 JENNIFERTON, MI 35873",0.85,updated,034-643-2329x259,0.7050000000000001,updated,pediatrics,1.0,confirmed,12558053266,0.95,confirmed,0.901
+PRV_002,Joseph Lang,1.0,confirmed,"671 MARK COMMON KIMFORT, OK 66368",0.9,confirmed,(939)162-8128,0.605,suspect,dermatology,1.0,confirmed,16622968267,0.95,confirmed,0.891
+PRV_003,Austin Berg,1.0,confirmed,"084 Rivera Roads East Brandyburgh, PA 02308",0.76,updated,219.435.4998,0.615,suspect,orthopedics,1.0,confirmed,14011476234,0.95,confirmed,0.865
+PRV_004,Thomas Horn,1.0,confirmed,"824 BECKER CLUB SOUTH CHARLES, WA 84741",0.91,confirmed,845-696-4802x5949,0.655,suspect,pediatrics,1.0,confirmed,18767821330,0.95,confirmed,0.9029999999999999
+PRV_005,Robert Jenkins,1.0,confirmed,"53753 ADAM RIDGES STEVENVIEW, WI 92052",0.95,confirmed,(712)719-5006,0.675,suspect,pediatrics,1.0,confirmed,14038976299,0.95,confirmed,0.915
+PRV_006,Paul Dixon,1.0,confirmed,"610 BLAIR BRIDGE WEST ERIN, IA 47995",0.98,confirmed,001-049-085-5029,0.645,suspect,emergency,1.0,confirmed,11810981396,0.95,confirmed,0.915
+PRV_007,Crystal Bush,1.0,confirmed,"711 WILLIAMS PARKWAYS APT. 448 BAUERBURY, KS 85431",0.84,updated,032.140.7584x4408,0.6699999999999999,suspect,oncology,1.0,confirmed,18564597698,0.95,confirmed,0.892
+PRV_008,Eugene Mckinney,1.0,confirmed,"85038 PACHECO PORT SUITE 035 LAKE TAMMYLAND, NH 12478",0.9,confirmed,001-163-134-5376x6528,0.7050000000000001,updated,pediatrics,1.0,confirmed,18653735648,0.3,suspect,0.781
+PRV_009,Christopher Taylor,1.0,confirmed,USNS WHITE FPO AP 52782,0.93,confirmed,+14144707412,0.86,updated,dermatology,1.0,confirmed,15898589114,0.95,confirmed,0.9480000000000001
+PRV_010,Scott Kelly,1.0,confirmed,"25769 LAMB DIVIDE VICTORIAVILLE, VA 87545",0.99,confirmed,889.248.1011x3273,0.7050000000000001,updated,dermatology,1.0,confirmed,14454722343,0.95,confirmed,0.9289999999999999
+PRV_011,Justin Miller,1.0,confirmed,"76320 FARMER PARKWAYS SUITE 456 REEDFORT, DE 38402",0.97,confirmed,(171)629-3039x20621,0.7150000000000001,updated,pediatrics,1.0,confirmed,18491894007,0.95,confirmed,0.9269999999999999
+PRV_012,David Parks,1.0,confirmed,"748 CONRAD OVAL MCKENZIEFORT, AL 10974",0.97,confirmed,518-904-0099x215,0.675,suspect,neurology,1.0,confirmed,12105693135,0.95,confirmed,0.9189999999999999
+PRV_013,Margaret Valdez,1.0,confirmed,"006 JORDAN CANYON GEORGEFURT, HI 93098",0.96,confirmed,+14435620376,0.885,updated,oncology,1.0,confirmed,14186475051,0.95,confirmed,0.959
+PRV_014,Julie Lewis,1.0,confirmed,"12218 JULIA MILL SUITE 032 WEST ROBERTFORT, AK 81316",0.92,confirmed,(392)131-9312x85236,0.655,suspect,neurology,1.0,confirmed,13960370654,0.95,confirmed,0.905
+PRV_015,Joseph Young,1.0,confirmed,"137 JAMIE LOCKS GONZALEZTOWN, AL 28562",0.86,updated,(046)212-3262x191,0.6799999999999999,suspect,orthopedics,1.0,confirmed,12902675926,0.95,confirmed,0.898
+PRV_016,Dylan Baker,1.0,confirmed,"668 MURPHY TRAIL APT. 190 DONNABOROUGH, DC 91636",0.94,confirmed,2945565063,0.63,suspect,emergency,1.0,confirmed,16214979822,0.95,confirmed,0.9039999999999999
+PRV_017,Jessica Moyer,1.0,confirmed,"738 Cardenas Valley Lake Julie, VA 13619",0.79,updated,+11554928139,0.8500000000000001,updated,dermatology,1.0,confirmed,18801505716,0.95,confirmed,0.9179999999999999
+PRV_018,Emma Johns,1.0,confirmed,"82812 CANNON STREET NORTH CASSANDRA, PA 03048",0.91,confirmed,(807)853-8612x46964,0.685,suspect,oncology,1.0,confirmed,12062007827,0.95,confirmed,0.909
+PRV_019,Haley Reyes,1.0,confirmed,USS DUNN FPO AE 28461,0.86,updated,736.974.5870x4536,0.72,updated,neurology,1.0,confirmed,11374843730,0.95,confirmed,0.906
+PRV_020,Robert Thomas,1.0,confirmed,"761 JAMES FORKS NEW STEVEN, MO 64741",0.93,confirmed,001-593-047-8414x022,0.72,updated,pediatrics,1.0,confirmed,15821429778,0.95,confirmed,0.9199999999999999
+PRV_021,Brian Campos,1.0,confirmed,"3125 Angel Summit Suite 021 South Annette, RI 11312",0.79,updated,+11850045196,0.87,updated,neurology,1.0,confirmed,14347595233,0.95,confirmed,0.922
+PRV_022,Christian Smith,1.0,confirmed,"56767 HUTCHINSON PLAIN GARCIASIDE, MO 35516",0.9,confirmed,179.439.6939x558,0.685,suspect,neurology,1.0,confirmed,16323847932,0.95,confirmed,0.907
+PRV_023,Sandra Brown,1.0,confirmed,"PSC 6274, BOX 7924 APO AP 99402",0.99,confirmed,981.339.1151x9553,0.6950000000000001,suspect,dermatology,1.0,confirmed,16011975664,0.95,confirmed,0.9269999999999999
+PRV_024,Andrew Carter,1.0,confirmed,"7978 DANA RIDGES SUITE 781 NEW GREGORY, OR 85170",0.86,updated,+19543368046,0.915,confirmed,dermatology,1.0,confirmed,12195837140,0.95,confirmed,0.945
+PRV_025,Jesse Torres,1.0,confirmed,"65213 SARAH COURTS APT. 743 JAMESTON, KY 72306",1.0,confirmed,+14699722214,0.9199999999999999,confirmed,pediatrics,1.0,confirmed,17648181261,0.95,confirmed,0.974
+PRV_026,Joseph Weber MD,1.0,confirmed,"3438 Jason Branch Suite 466 Debrashire, CT 19732",0.77,updated,001-441-901-7303,0.72,updated,oncology,1.0,confirmed,19985738684,0.95,confirmed,0.8879999999999999
+PRV_027,Brianna Watson,1.0,confirmed,"6210 RANDY PINE SUITE 954 BRIGGSTOWN, AK 20445",0.94,confirmed,209.599.0676x8802,0.64,suspect,orthopedics,1.0,confirmed,18888166857,0.95,confirmed,0.906
+PRV_028,Michael Morgan,1.0,confirmed,"19057 Todd Falls Apt. 693 Ellenmouth, NJ 54427",0.79,updated,661.805.8877,0.7,updated,emergency,1.0,confirmed,16148542345,0.95,confirmed,0.8879999999999999
+PRV_029,Michelle Smith,1.0,confirmed,USNS HERNANDEZ FPO AP 17755,0.89,updated,275-492-7630,0.6699999999999999,suspect,neurology,1.0,confirmed,18770946406,0.95,confirmed,0.9019999999999999
+PRV_030,Rachel Long,1.0,confirmed,"8269 Rojas Inlet Apt. 339 New Jackborough, NV 97114",0.75,updated,829.509.2253x1859,0.655,suspect,dermatology,1.0,confirmed,15679138425,0.95,confirmed,0.8710000000000001
+PRV_031,Michael Contreras,1.0,confirmed,"8837 JEFFERSON FORGE PORT KAITLYNTON, NV 45574",0.85,updated,(165)644-8123x93877,0.65,suspect,oncology,1.0,confirmed,16557495692,0.3,suspect,0.76
+PRV_032,Tyrone Boyd,1.0,confirmed,Unit 7956 Box 7563 DPO AE 93164,0.79,updated,+10848253010,0.9199999999999999,confirmed,pediatrics,1.0,confirmed,14907082272,0.3,suspect,0.8019999999999999
+PRV_033,Ashley Murphy,1.0,confirmed,"1891 Vincent Flats Lydialand, AR 94277",0.77,updated,040-359-0191x56049,0.72,updated,dermatology,1.0,confirmed,12379758771,0.95,confirmed,0.8879999999999999
+PRV_034,Madison Duffy,1.0,confirmed,"3739 ELLIOTT VIADUCT APT. 334 SOUTH CASSANDRAPORT, ID 17529",0.83,updated,(105)603-4240x160,0.615,suspect,oncology,1.0,confirmed,16987655765,0.95,confirmed,0.8789999999999999
+PRV_035,Diana Smith,1.0,confirmed,"5119 JOHN ISLE SUITE 136 RICHARDSONTON, AR 88109",0.9,confirmed,(237)100-5934x69366,0.69,suspect,pediatrics,1.0,confirmed,14359430144,0.95,confirmed,0.908
+PRV_036,Robert Gonzales,1.0,confirmed,"8986 MALLORY CAPE JOHNSONMOUTH, MN 84259",0.95,confirmed,+19332789011,0.835,updated,dermatology,1.0,confirmed,12385333122,0.95,confirmed,0.9469999999999998
+PRV_037,Gabriel Riley,1.0,confirmed,"100 Darrell Greens Sarahmouth, ME 44055",0.79,updated,361.282.1175,0.65,suspect,cardiology,1.0,confirmed,17349185126,0.95,confirmed,0.8779999999999999
+PRV_038,Amber Allen,1.0,confirmed,"8035 DEANNA STREET SUITE 040 PORT COREYBOROUGH, DE 37531",0.99,confirmed,1938149086,0.71,updated,pediatrics,1.0,confirmed,12744949518,0.95,confirmed,0.93
+PRV_039,Donald Mercado,1.0,confirmed,"38485 GINA POINTS NICOLEVIEW, AK 64927",0.91,confirmed,(529)069-5817,0.6599999999999999,suspect,orthopedics,1.0,confirmed,17949367308,0.95,confirmed,0.9039999999999999
+PRV_040,Roy Munoz,1.0,confirmed,"256 JOHNSON STREET SUITE 049 NORTH JUSTINHAVEN, RI 13331",0.87,updated,398.788.8912x39087,0.685,suspect,oncology,1.0,confirmed,19261967342,0.95,confirmed,0.901
+PRV_041,Robert Barnett,1.0,confirmed,"86750 JERMAINE LODGE APT. 854 NORTH WANDA, MN 73432",0.95,confirmed,001-593-222-4882x8044,0.62,suspect,dermatology,1.0,confirmed,16233410939,0.95,confirmed,0.9039999999999999
+PRV_042,Cheryl Brooks,1.0,confirmed,"7190 Mccormick Walk Suite 928 Chasehaven, CO 51977",0.79,updated,001-291-774-9824x0853,0.635,suspect,emergency,1.0,confirmed,14713072276,0.95,confirmed,0.875
+PRV_043,Kristen Mitchell,1.0,confirmed,"985 Joseph Trace Apt. 453 Port Shawnhaven, MS 99220",0.76,updated,001-396-899-9873x338,0.7,updated,orthopedics,1.0,confirmed,19118470651,0.95,confirmed,0.882
+PRV_044,Ariana Edwards,1.0,confirmed,UNIT 7585 BOX 7384 DPO AE 77915,0.98,confirmed,(230)906-9403,0.675,suspect,neurology,1.0,confirmed,15225695142,0.3,suspect,0.791
+PRV_045,Jonathan Mills,1.0,confirmed,"371 CYNTHIA RIVER PORT JOSEPH, MA 54422",0.85,updated,483.823.0564x0223,0.6599999999999999,suspect,dermatology,1.0,confirmed,18295448768,0.95,confirmed,0.892
+PRV_046,Renee Berger,1.0,confirmed,"925 JOHN ISLANDS KAYLASHIRE, MD 44213",0.92,confirmed,+11781076409,0.81,updated,emergency,1.0,confirmed,14947145824,0.95,confirmed,0.9359999999999999
+PRV_047,Michelle Park,1.0,confirmed,"918 RODRIGUEZ CAPE NORTH ANDREW, NH 12232",0.95,confirmed,+10050011407,0.8400000000000001,updated,oncology,1.0,confirmed,15222612702,0.95,confirmed,0.9480000000000001
+PRV_048,Molly Gould,1.0,confirmed,"9875 PENA SHORE PORT WILLIAMCHESTER, DC 66684",0.84,updated,+17201601604,0.8500000000000001,updated,orthopedics,1.0,confirmed,16232138195,0.95,confirmed,0.9279999999999999
+PRV_049,Connor Taylor,1.0,confirmed,"811 Waters Squares Port Carlside, RI 11509",0.79,updated,001-790-208-0489,0.655,suspect,oncology,1.0,confirmed,11929708482,0.3,suspect,0.749
+PRV_050,Maria Harvey,1.0,confirmed,"802 LOPEZ TRACK APT. 448 KRYSTALBURGH, MO 99052",0.82,updated,967-061-3732x2627,0.63,suspect,neurology,1.0,confirmed,13693996865,0.95,confirmed,0.8800000000000001
+PRV_051,Dana Allen,1.0,confirmed,"957 Allen Squares Lake Colleen, NE 09804",0.79,updated,+13697724597,0.885,updated,dermatology,1.0,confirmed,16425669004,0.95,confirmed,0.925
+PRV_052,Sara Santos,1.0,confirmed,"27729 Cortez Cliffs Lake Miranda, DE 43454",0.75,updated,(146)401-5940x0289,0.69,suspect,oncology,1.0,confirmed,11964116029,0.95,confirmed,0.8779999999999999
+PRV_053,Jennifer Rivera,1.0,confirmed,"9065 Briggs Canyon Suite 848 West Michellefort, OK 72470",0.77,updated,645-096-4275,0.62,suspect,emergency,1.0,confirmed,19183983961,0.3,suspect,0.738
+PRV_054,Tara Warner,1.0,confirmed,"87439 RUIZ SQUARES SUITE 617 WEST STEVENSIDE, OH 67938",0.91,confirmed,0455067923,0.625,suspect,orthopedics,1.0,confirmed,13529591597,0.95,confirmed,0.897
+PRV_055,Michelle Jackson,1.0,confirmed,"24225 HARRISON MOUNTAINS PEREZMOUTH, AK 40973",0.88,updated,691.024.8907x821,0.645,suspect,pediatrics,1.0,confirmed,14551995657,0.95,confirmed,0.8949999999999999
+PRV_056,Brandi Martin,1.0,confirmed,"3222 Andrew Springs Meganville, NJ 54527",0.79,updated,+11315243633,0.81,updated,neurology,1.0,confirmed,18852676502,0.95,confirmed,0.9099999999999999
+PRV_057,Dr. Joan Rivera,1.0,confirmed,"6393 THOMAS HARBOR VICTORIAFURT, HI 59643",0.87,updated,001-344-482-3359x5683,0.675,suspect,emergency,1.0,confirmed,16609732041,0.95,confirmed,0.899
+PRV_058,Mr. Christopher Hill Jr.,1.0,confirmed,USS WILLIAMS FPO AP 84502,0.98,confirmed,(112)144-0657,0.69,suspect,cardiology,1.0,confirmed,14282693902,0.95,confirmed,0.924
+PRV_059,David Silva,1.0,confirmed,"038 GARCIA FORDS APT. 083 NEW ASHLEETON, MO 26422",0.84,updated,001-426-823-6035x1340,0.69,suspect,neurology,1.0,confirmed,14939339977,0.95,confirmed,0.8959999999999999
+PRV_060,Erika Clark,1.0,confirmed,"35083 MARIAH TRAIL WILKINSONMOUTH, ND 64853",0.86,updated,437.244.2093x712,0.655,suspect,pediatrics,1.0,confirmed,15684003010,0.95,confirmed,0.893
+PRV_061,Eric Gilbert,1.0,confirmed,"78257 LEWIS CAMP AMYBERG, UT 38087",0.91,confirmed,(286)000-5290x391,0.64,suspect,dermatology,1.0,confirmed,17788869683,0.95,confirmed,0.9
+PRV_062,Eric Solis,1.0,confirmed,"4636 HEATHER FORGE JAMESSHIRE, WA 48813",0.87,updated,(858)858-8052,0.665,suspect,emergency,1.0,confirmed,18491549962,0.95,confirmed,0.897
+PRV_063,Alec Finley,1.0,confirmed,"12601 MICHELE PLAZA APT. 137 PORT LAURAMOUTH, SC 00698",0.81,updated,001-264-040-3181x0063,0.69,suspect,orthopedics,1.0,confirmed,18995506831,0.95,confirmed,0.89
+PRV_064,Kelly Gardner,1.0,confirmed,"9910 ANDREA BRIDGE BOWMANSTAD, NE 88700",0.94,confirmed,613.795.9471x243,0.635,suspect,neurology,1.0,confirmed,18421977096,0.95,confirmed,0.905
+PRV_065,John Scott,1.0,confirmed,"43144 KELLEY VILLAGES LAKE DYLANSHIRE, MO 53817",0.86,updated,161-328-0448x85033,0.615,suspect,oncology,1.0,confirmed,14950089340,0.95,confirmed,0.885
+PRV_066,Meghan Ho,1.0,confirmed,"30127 JENNIFER STREET WEST CHRISTOPHER, ME 95623",0.93,confirmed,163-408-8069x96504,0.62,suspect,orthopedics,1.0,confirmed,19105736915,0.95,confirmed,0.9
+PRV_067,Erika Cooper,1.0,confirmed,"70898 STANLEY HIGHWAY PAULLAND, ND 65936",1.0,confirmed,430.445.4729x3801,0.6,suspect,orthopedics,1.0,confirmed,12686260271,0.95,confirmed,0.9099999999999999
+PRV_068,Brent Phillips,1.0,confirmed,"670 Cantu Villages Apt. 323 Lake Jeffreyview, FL 39995",0.75,updated,(951)222-3697,0.64,suspect,emergency,1.0,confirmed,18184485310,0.95,confirmed,0.868
+PRV_069,Gary Vazquez,1.0,confirmed,Unit 1684 Box 6273 DPO AA 05403,0.76,updated,9571943619,0.655,suspect,neurology,1.0,confirmed,19440101466,0.95,confirmed,0.873
+PRV_070,Joanna Swanson,1.0,confirmed,USCGC MURRAY FPO AE 02716,0.93,confirmed,201-414-6659x71196,0.7,updated,dermatology,1.0,confirmed,17063386865,0.95,confirmed,0.916
+PRV_071,Carlos Johnson,1.0,confirmed,"1320 MELISSA GROVES SUITE 406 SMITHFURT, ND 25772",0.89,updated,+18511306874,0.8200000000000001,updated,pediatrics,1.0,confirmed,12749873370,0.95,confirmed,0.932
+PRV_072,Rhonda Smith,1.0,confirmed,"6534 SARAH VALLEY SUITE 350 DARLENESIDE, CO 69246",0.89,updated,001-823-394-7001x03935,0.725,updated,pediatrics,1.0,confirmed,14623272663,0.95,confirmed,0.9129999999999999
+PRV_073,Michelle Brooks,1.0,confirmed,"5202 SHERRY VIEWS APT. 007 WEST HALEYPORT, HI 82183",0.91,confirmed,001-884-897-0145x6235,0.72,updated,emergency,1.0,confirmed,15550990659,0.3,suspect,0.786
+PRV_074,Linda Morrison,1.0,confirmed,"6253 Smith Gardens Suite 281 Port Jenniferchester, OR 53172",0.76,updated,(445)306-3717x354,0.615,suspect,emergency,1.0,confirmed,16245795714,0.95,confirmed,0.865
+PRV_075,Abigail Nash,1.0,confirmed,"0018 WANG AVENUE APT. 989 TRAVISBOROUGH, IA 67070",0.9,confirmed,512.613.6101x167,0.665,suspect,oncology,1.0,confirmed,13636248983,0.95,confirmed,0.9029999999999999
+PRV_076,Brandon Osborne,1.0,confirmed,"56449 ANDREW VALLEY APT. 728 LEVISHIRE, MO 68192",0.92,confirmed,(904)335-4786,0.625,suspect,dermatology,1.0,confirmed,18784664414,0.3,suspect,0.769
+PRV_077,Carolyn Hudson,1.0,confirmed,"95640 DANIEL WELL PORT RICHARD, RI 17350",0.98,confirmed,+16398936992,0.855,updated,dermatology,1.0,confirmed,19768978377,0.3,suspect,0.827
+PRV_078,Ryan Serrano,1.0,confirmed,"047 Kerri Circle West Paul, UT 88172",0.76,updated,987.395.1770x800,0.7050000000000001,updated,neurology,1.0,confirmed,19634051089,0.95,confirmed,0.883
+PRV_079,Matthew Horne,1.0,confirmed,"3510 CHARLES TRACK EAST BRANDONFURT, WA 32093",0.93,confirmed,(255)041-0781,0.645,suspect,neurology,1.0,confirmed,15869307106,0.95,confirmed,0.905
+PRV_080,Vanessa Graham,1.0,confirmed,"50773 GARY CENTER APT. 524 EAST DENISEBURY, WY 08046",0.99,confirmed,515-015-9796,0.64,suspect,orthopedics,1.0,confirmed,14130548527,0.95,confirmed,0.916
+PRV_081,James Delgado,1.0,confirmed,"PSC 2752, BOX 3432 APO AA 29238",0.82,updated,+14447976746,0.8049999999999999,updated,orthopedics,1.0,confirmed,19988640258,0.95,confirmed,0.915
+PRV_082,Jennifer Gilmore,1.0,confirmed,"313 JEFF CROSSROAD SARATON, DC 46245",0.8,updated,118.139.1685x753,0.64,suspect,pediatrics,1.0,confirmed,14203073312,0.95,confirmed,0.8779999999999999
+PRV_083,Tonya Rivera,1.0,confirmed,"78124 ANDREW REST APT. 726 PORT TERESAMOUTH, IL 05186",0.95,confirmed,206.191.8114x3271,0.61,suspect,neurology,1.0,confirmed,19560545756,0.95,confirmed,0.9019999999999999
+PRV_084,Eric Villanueva,1.0,confirmed,"6957 HARVEY LOCKS APT. 349 ALISHAMOUTH, WY 21550",0.82,updated,675-900-1433x0001,0.65,suspect,neurology,1.0,confirmed,12265949871,0.3,suspect,0.754
+PRV_085,Mike Mason,1.0,confirmed,"95597 JACKSON GLEN APT. 997 JOSEPHBOROUGH, PA 75069",0.93,confirmed,157.238.0507x5322,0.6799999999999999,suspect,pediatrics,1.0,confirmed,14892429078,0.95,confirmed,0.9119999999999999
+PRV_086,Jordan Mullins,1.0,confirmed,"PSC 7264, BOX 1562 APO AP 12314",0.91,confirmed,+17592241619,0.885,updated,neurology,1.0,confirmed,18420196173,0.95,confirmed,0.9490000000000001
+PRV_087,Maria Clay,1.0,confirmed,"74982 Stein Mills Suite 820 Gomezberg, AL 43315",0.79,updated,(438)879-4086,0.625,suspect,cardiology,1.0,confirmed,13431764004,0.95,confirmed,0.873
+PRV_088,James White,1.0,confirmed,"940 YVONNE RUN EAST KIMMOUTH, NH 61121",0.87,updated,+10664218607,0.825,updated,orthopedics,1.0,confirmed,18768061043,0.95,confirmed,0.9289999999999999
+PRV_089,George Waller,1.0,confirmed,"4919 KATHY ISLE GARCIATOWN, NY 39998",0.81,updated,599-583-0041,0.71,updated,dermatology,1.0,confirmed,11424975490,0.95,confirmed,0.8939999999999999
+PRV_090,Roger Bush,1.0,confirmed,"2904 BENJAMIN CROSSING SUITE 929 ERICTON, RI 43979",0.8,updated,049.740.8272,0.61,suspect,oncology,1.0,confirmed,19356892009,0.95,confirmed,0.8720000000000001
+PRV_091,Madison Wheeler,1.0,confirmed,"9581 Doyle Vista Suite 483 North Travis, NH 31849",0.79,updated,5395664068,0.71,updated,orthopedics,1.0,confirmed,18397604270,0.95,confirmed,0.89
+PRV_092,Timothy Stout,1.0,confirmed,"399 SCOTT ESTATE SUITE 761 ONEILLBERG, NY 39897",0.97,confirmed,+10081183725,0.905,confirmed,emergency,1.0,confirmed,19900082461,0.3,suspect,0.835
+PRV_093,Chelsea Silva,1.0,confirmed,USNS BRADLEY FPO AP 70060,0.94,confirmed,001-839-728-7609x64856,0.7,updated,pediatrics,1.0,confirmed,19171306144,0.95,confirmed,0.9179999999999999
+PRV_094,Jennifer Wang,1.0,confirmed,"49379 MASON HIGHWAY LAKE TARA, VA 34250",0.9,confirmed,+18532452070,0.915,confirmed,orthopedics,1.0,confirmed,12547524498,0.3,suspect,0.8230000000000001
+PRV_095,Debra Kelly,1.0,confirmed,"620 GRAY PARKWAYS WALTERSFORT, ID 33290",0.8,updated,(136)510-0171x2413,0.7050000000000001,updated,neurology,1.0,confirmed,13876671365,0.95,confirmed,0.891
+PRV_096,Aimee Perez,1.0,confirmed,"6584 JULIE PLAINS SUITE 366 RYANPORT, WA 79764",0.97,confirmed,+10899834882,0.8049999999999999,updated,orthopedics,1.0,confirmed,19993738754,0.95,confirmed,0.945
+PRV_097,Kathleen Cantrell,1.0,confirmed,"2492 RAMIREZ PLAINS NORTH ANDREWVIEW, OH 41912",0.89,updated,040.636.7162,0.635,suspect,emergency,1.0,confirmed,19043964856,0.95,confirmed,0.8949999999999999
+PRV_098,Dominic Davis,1.0,confirmed,"0969 Harris Port Suite 386 Jacksonchester, DE 83224",0.76,updated,286.703.1820x44133,0.65,suspect,oncology,1.0,confirmed,19179875372,0.95,confirmed,0.8720000000000001
+PRV_099,Tina Elliott,1.0,confirmed,"481 STONE MEADOW SUITE 478 WILLIAMSIDE, MI 12867",0.95,confirmed,(151)504-9656,0.635,suspect,cardiology,1.0,confirmed,19596267019,0.3,suspect,0.7769999999999999
+PRV_100,Steven Frederick,1.0,confirmed,"9863 JENNIFER CANYON RYANTOWN, LA 79041",0.91,confirmed,808-625-9190x77792,0.685,suspect,cardiology,1.0,confirmed,14504068059,0.3,suspect,0.779
+PRV_101,Thomas Williams,1.0,confirmed,"600 Matthew Landing Samueltown, MA 16518",0.76,updated,996.529.5821x907,0.6799999999999999,suspect,orthopedics,1.0,confirmed,11498497791,0.95,confirmed,0.8779999999999999
+PRV_102,Samuel Cox,1.0,confirmed,"003 HORN ESTATE NORTH JEFFBOROUGH, KY 61954",0.92,confirmed,+10231058982,0.91,confirmed,emergency,1.0,confirmed,15236480352,0.95,confirmed,0.9560000000000001
+PRV_103,Damon Manning,1.0,confirmed,"390 JOSEPH ISLAND PORT BARBARATON, WY 12985",0.9,confirmed,126-475-1621x703,0.665,suspect,neurology,1.0,confirmed,14297999467,0.95,confirmed,0.9029999999999999
+PRV_104,Peter Ramirez,1.0,confirmed,"17471 LEE SHORES PORT JOSHUA, IL 83434",0.96,confirmed,5037313997,0.655,suspect,cardiology,1.0,confirmed,19441904279,0.95,confirmed,0.9129999999999999
+PRV_105,Kristen Duke,1.0,confirmed,"07598 MARSHALL ROAD SOUTH REBECCA, KY 38609",0.89,updated,282-178-4166x61558,0.6599999999999999,suspect,emergency,1.0,confirmed,17820089707,0.95,confirmed,0.9
+PRV_106,Joseph Burgess,1.0,confirmed,"17945 Green Well Suite 565 Fowlerstad, OR 02552",0.78,updated,001-650-685-2138,0.71,updated,oncology,1.0,confirmed,11524729150,0.95,confirmed,0.8879999999999999
+PRV_107,Rachel Cooper,1.0,confirmed,"931 BAKER RAMP APT. 766 EAST SETH, KY 90817",0.83,updated,001-422-127-0001x18311,0.725,updated,neurology,1.0,confirmed,11884261102,0.95,confirmed,0.901
+PRV_108,Kara Washington,1.0,confirmed,"254 TURNER SUMMIT KATHLEENBERG, MO 46756",0.83,updated,+12265323581,0.9199999999999999,confirmed,pediatrics,1.0,confirmed,13817105621,0.95,confirmed,0.9400000000000001
+PRV_109,James Shaw,1.0,confirmed,"00615 SCHMIDT MEADOWS SUITE 326 LAKE MATTHEWSTAD, SC 73433",0.81,updated,088-284-5793,0.62,suspect,dermatology,1.0,confirmed,18377442906,0.95,confirmed,0.876
+PRV_110,Courtney Dixon,1.0,confirmed,"402 Moody Mill Amberchester, NY 73103",0.78,updated,242-191-4921x0347,0.63,suspect,oncology,1.0,confirmed,19386281442,0.95,confirmed,0.8720000000000001
+PRV_111,Traci Richards,1.0,confirmed,"665 JARED LODGE SUITE 336 EAST STACEY, MN 47426",0.83,updated,483-991-1856x6055,0.65,suspect,pediatrics,1.0,confirmed,17409618518,0.95,confirmed,0.8859999999999999
+PRV_112,Kimberly Stokes,1.0,confirmed,"94008 CINDY SPRINGS SUITE 617 EAST CHRISTINABOROUGH, WA 08547",0.94,confirmed,867-214-9282x173,0.645,suspect,oncology,1.0,confirmed,18075185816,0.3,suspect,0.7769999999999999
+PRV_113,Michael Webb,1.0,confirmed,"3383 ANDREW CIRCLES NEW BRYANBURGH, DE 99317",0.96,confirmed,678-524-5284x981,0.615,suspect,orthopedics,1.0,confirmed,18326430489,0.95,confirmed,0.905
+PRV_114,Mary Turner,1.0,confirmed,"557 JOY MILL APT. 939 LEEVIEW, NH 51869",0.96,confirmed,849.389.2668,0.72,updated,cardiology,1.0,confirmed,14239604626,0.95,confirmed,0.9259999999999999
+PRV_115,Elizabeth Marquez,1.0,confirmed,"47557 LOGAN CAUSEWAY APT. 728 LAKE ELIZABETH, NY 70391",0.82,updated,+14920905391,0.88,updated,dermatology,1.0,confirmed,18356301190,0.3,suspect,0.8
+PRV_116,Barbara Johnson,1.0,confirmed,"7357 RACHEL COVES APT. 310 WILLIAMSTON, AZ 35901",0.83,updated,859-944-1524x1980,0.72,updated,neurology,1.0,confirmed,14358107318,0.95,confirmed,0.9
+PRV_117,Nathaniel Roberts,1.0,confirmed,"PSC 3017, BOX 3917 APO AA 16644",0.83,updated,(176)947-2744x7131,0.62,suspect,oncology,1.0,confirmed,16974311253,0.95,confirmed,0.8800000000000001
+PRV_118,Breanna Taylor,1.0,confirmed,"759 RODRIGUEZ PORTS APT. 654 DIANALAND, NV 87714",0.86,updated,(651)652-1141,0.61,suspect,neurology,1.0,confirmed,18850463084,0.95,confirmed,0.884
+PRV_119,Christopher Wilkinson,1.0,confirmed,"6690 MATTHEWS PLACE EAST EMILY, PA 87201",0.9,confirmed,3113795156,0.7,updated,oncology,1.0,confirmed,15724683568,0.95,confirmed,0.9099999999999999
+PRV_120,John Hanna,1.0,confirmed,"8630 NELSON ISLE EAST MARGARET, CA 45636",0.91,confirmed,885.593.6288,0.6699999999999999,suspect,pediatrics,1.0,confirmed,12111275739,0.95,confirmed,0.906
+PRV_121,Jennifer Saunders,1.0,confirmed,"64205 MELISSA TRAIL PHILLIPSIDE, MS 80773",0.82,updated,+15220236250,0.9,confirmed,emergency,1.0,confirmed,12148079222,0.95,confirmed,0.9339999999999999
+PRV_122,Stacey Macias,1.0,confirmed,"5530 KELLY HARBOR ROBINSONBERG, MA 31591",0.88,updated,349-540-2270,0.6799999999999999,suspect,emergency,1.0,confirmed,19620030613,0.95,confirmed,0.9019999999999999
+PRV_123,Krista Wood,1.0,confirmed,"9352 JACKSON POINT APT. 976 WEST ANTHONYSTAD, NM 42164",0.94,confirmed,(149)258-8123x936,0.665,suspect,emergency,1.0,confirmed,19612150753,0.95,confirmed,0.9109999999999999
+PRV_124,Mallory Massey,1.0,confirmed,UNIT 9811 BOX 3035 DPO AP 88767,0.86,updated,001-089-571-2161x9617,0.605,suspect,pediatrics,1.0,confirmed,17944380110,0.95,confirmed,0.883
+PRV_125,Samantha Brennan,1.0,confirmed,"6391 MATTHEW FOREST NANCYSTAD, AR 43850",0.99,confirmed,(758)280-4618x3576,0.725,updated,orthopedics,1.0,confirmed,18975354875,0.95,confirmed,0.933
+PRV_126,Jesse Booth,1.0,confirmed,"4704 Williams Street East Stephanie, NC 44814",0.78,updated,502-981-0618,0.62,suspect,emergency,1.0,confirmed,16664397388,0.95,confirmed,0.8699999999999999
+PRV_127,Cynthia Campbell,1.0,confirmed,"0551 Kirby Bypass Beanside, WA 09371",0.78,updated,251.021.6535x69391,0.635,suspect,orthopedics,1.0,confirmed,17937286590,0.95,confirmed,0.873
+PRV_128,Linda Clark,1.0,confirmed,UNIT 3362 BOX 3381 DPO AA 93685,0.87,updated,(851)211-2039x20540,0.7,updated,pediatrics,1.0,confirmed,15213342312,0.95,confirmed,0.9039999999999999
+PRV_129,Barbara Cunningham,1.0,confirmed,"4100 REEVES CIRCLE CRYSTALVILLE, PA 58625",0.92,confirmed,552.871.8774x4773,0.7150000000000001,updated,pediatrics,1.0,confirmed,11260566369,0.95,confirmed,0.917
+PRV_130,Alicia Roman,1.0,confirmed,"71457 HEBERT ORCHARD CAROLSHIRE, AZ 73479",0.91,confirmed,204-344-7931x21916,0.6950000000000001,suspect,cardiology,1.0,confirmed,11777201699,0.95,confirmed,0.9109999999999999
+PRV_131,Sheila Price,1.0,confirmed,"7679 HENDERSON TURNPIKE LAKE SHARIMOUTH, OK 81738",0.9,confirmed,540.608.2671x04370,0.71,updated,cardiology,1.0,confirmed,12738755637,0.3,suspect,0.782
+PRV_132,Zachary Cruz,1.0,confirmed,"431 ESPINOZA RAPIDS EAST JULIEPORT, OR 35035",0.84,updated,+17600203346,0.8200000000000001,updated,cardiology,1.0,confirmed,14124937480,0.95,confirmed,0.922
+PRV_133,Mr. Carlos Brooks,1.0,confirmed,"24784 ROBERT VALLEY SUITE 166 CORYVILLE, MA 86948",0.95,confirmed,186.844.5436x632,0.6799999999999999,suspect,orthopedics,1.0,confirmed,19076480265,0.95,confirmed,0.916
+PRV_134,Seth Silva,1.0,confirmed,"4439 Stevens River West Richardberg, TX 70991",0.78,updated,001-254-640-1571x2688,0.655,suspect,oncology,1.0,confirmed,19339887647,0.95,confirmed,0.877
+PRV_135,Lawrence Wilson,1.0,confirmed,"189 KHAN ISLE ANTHONYVILLE, SD 17039",0.89,updated,(838)674-3576,0.635,suspect,dermatology,1.0,confirmed,15468227810,0.95,confirmed,0.8949999999999999
+PRV_136,Brooke Hall,1.0,confirmed,"9802 BURGESS SHOAL SUITE 228 KRUEGERMOUTH, ID 84202",0.86,updated,227.463.0182x01446,0.6699999999999999,suspect,orthopedics,1.0,confirmed,15418751759,0.95,confirmed,0.8959999999999999
+PRV_137,Juan Mills,1.0,confirmed,"474 LINDSAY HEIGHTS APT. 088 LAURAVILLE, VA 59682",0.86,updated,001-153-627-2370x3416,0.6799999999999999,suspect,neurology,1.0,confirmed,14270241579,0.95,confirmed,0.898
+PRV_138,Sierra Kemp,1.0,confirmed,"6457 MCGUIRE FREEWAY COOPERVIEW, NE 67361",0.91,confirmed,434-527-2825x588,0.6,suspect,oncology,1.0,confirmed,12441791702,0.95,confirmed,0.892
+PRV_139,Christopher Trujillo,1.0,confirmed,"16739 STEVEN CIRCLES EAST YOLANDATON, IA 88635",0.97,confirmed,452-214-8742x38072,0.615,suspect,pediatrics,1.0,confirmed,16522236652,0.95,confirmed,0.907
+PRV_140,Julie Fernandez,1.0,confirmed,"0593 Catherine Fork Apt. 446 New Deborahville, VT 95704",0.77,updated,+17611191474,0.845,updated,neurology,1.0,confirmed,11650805453,0.95,confirmed,0.9129999999999999
+PRV_141,Micheal Harrington,1.0,confirmed,"411 TOWNSEND UNIONS WEST KARENTON, DE 67751",0.81,updated,937.683.2280,0.6799999999999999,suspect,dermatology,1.0,confirmed,19413113994,0.95,confirmed,0.8879999999999999
+PRV_142,Luis Henry,1.0,confirmed,"403 NICHOLSON PLACE LAKE CHRISTINETOWN, MI 86608",0.82,updated,625.733.0370x68312,0.62,suspect,pediatrics,1.0,confirmed,17871954994,0.95,confirmed,0.8779999999999999
+PRV_143,Joseph Holmes,1.0,confirmed,"99451 JOEL HILLS NUNEZSTAD, ND 20074",0.9,confirmed,(894)394-2935x63155,0.63,suspect,neurology,1.0,confirmed,15929163648,0.95,confirmed,0.8960000000000001
+PRV_144,John Rogers,1.0,confirmed,"3280 STEPHEN LOCKS LAKE JOSHUA, MT 20257",0.87,updated,030-197-9135x750,0.635,suspect,dermatology,1.0,confirmed,17440485462,0.95,confirmed,0.891
+PRV_145,Andrew Smith,1.0,confirmed,"319 Torres Ferry Medinaland, AZ 58293",0.79,updated,+12640333810,0.8300000000000001,updated,pediatrics,1.0,confirmed,19335689439,0.95,confirmed,0.914
+PRV_146,Nathan Mays,1.0,confirmed,"4291 JENNIFER ISLAND APT. 481 WILLIAMSTOWN, NM 26538",0.94,confirmed,814-481-5228x196,0.63,suspect,dermatology,1.0,confirmed,13553977534,0.95,confirmed,0.9039999999999999
+PRV_147,Cindy Schwartz,1.0,confirmed,"1488 ARELLANO HEIGHTS APT. 738 LAKE THOMASBOROUGH, OK 84308",0.85,updated,159-381-4658,0.69,suspect,orthopedics,1.0,confirmed,17721433681,0.95,confirmed,0.898
+PRV_148,Frederick White,1.0,confirmed,"247 AMANDA CREST WEST JAMES, HI 56381",0.85,updated,(768)913-0552,0.72,updated,dermatology,1.0,confirmed,14429943418,0.3,suspect,0.774
+PRV_149,Joseph Anderson,1.0,confirmed,"PSC 0253, BOX 8423 APO AA 25268",0.88,updated,183-362-7971x14206,0.62,suspect,neurology,1.0,confirmed,19902202867,0.3,suspect,0.76
+PRV_150,Thomas Fox,1.0,confirmed,"6160 THERESA MOUNTAIN CHAVEZVILLE, NY 70628",0.86,updated,001-957-919-7199x3558,0.615,suspect,neurology,1.0,confirmed,12737067390,0.95,confirmed,0.885
+PRV_151,Amy Ellison,1.0,confirmed,"141 MONICA MEADOW LAKE ANTHONY, NJ 67749",0.94,confirmed,(586)218-4789,0.725,updated,cardiology,1.0,confirmed,16509081556,0.95,confirmed,0.923
+PRV_152,Amanda Wilson,1.0,confirmed,"0306 BROOKS WALKS SUITE 307 NORTH MICHAEL, MO 01389",0.98,confirmed,910.774.3400,0.7050000000000001,updated,oncology,1.0,confirmed,11013619967,0.95,confirmed,0.9269999999999999
+PRV_153,Joshua Henderson,1.0,confirmed,"25918 ANNETTE MOUNTAINS APT. 942 KRISTIFORT, OK 96635",0.89,updated,105.439.7880x22751,0.7,updated,orthopedics,1.0,confirmed,17502807197,0.95,confirmed,0.908
+PRV_154,Chelsea Reilly,1.0,confirmed,"68580 GILES PORTS APT. 548 AYALALAND, GA 39039",0.98,confirmed,+10449531018,0.855,updated,oncology,1.0,confirmed,19316419842,0.95,confirmed,0.9570000000000001
+PRV_155,Kaitlyn Nguyen,1.0,confirmed,"PSC 2359, BOX 2612 APO AA 44641",0.9,confirmed,044-332-4706x9478,0.6699999999999999,suspect,orthopedics,1.0,confirmed,12225741919,0.95,confirmed,0.9039999999999999
+PRV_156,Yolanda Jones,1.0,confirmed,"458 PHILLIP SPUR BRANDONVIEW, MN 77805",0.98,confirmed,001-404-490-6878,0.63,suspect,emergency,1.0,confirmed,15855153859,0.95,confirmed,0.9119999999999999
+PRV_157,Daniel Carpenter,1.0,confirmed,"6294 PATRICK DALE CAITLINCHESTER, TX 36535",0.95,confirmed,001-673-479-9156x56361,0.62,suspect,dermatology,1.0,confirmed,13698093465,0.95,confirmed,0.9039999999999999
+PRV_158,Emily Mckinney,1.0,confirmed,"9647 SMITH RAPID NEW RICHARD, WA 18974",0.82,updated,481-612-8026x9883,0.65,suspect,neurology,1.0,confirmed,17082285122,0.3,suspect,0.754
+PRV_159,Kathleen Warren,1.0,confirmed,"743 ANTHONY ISLANDS SUITE 483 PORT TYLERBOROUGH, IA 71737",0.99,confirmed,001-275-144-9179x516,0.615,suspect,orthopedics,1.0,confirmed,19405345379,0.95,confirmed,0.9109999999999999
+PRV_160,Christina Jones,1.0,confirmed,"739 FRITZ PASSAGE SOUTH STEPHANIE, KS 29455",0.91,confirmed,001-949-066-1141x8077,0.7050000000000001,updated,orthopedics,1.0,confirmed,12280470696,0.3,suspect,0.783
+PRV_161,Melanie Marshall,1.0,confirmed,"4466 OLSEN CORNERS WEST DALTON, MD 45084",0.84,updated,(839)045-9912,0.65,suspect,cardiology,1.0,confirmed,16842522863,0.95,confirmed,0.8879999999999999
+PRV_162,Beth Gentry,1.0,confirmed,"302 ROSE SPUR SUITE 600 SOUTH ANNAHAVEN, MT 59101",0.99,confirmed,387.901.8705x51461,0.62,suspect,cardiology,1.0,confirmed,14457829430,0.95,confirmed,0.9119999999999999
+PRV_163,Olivia Ferguson,1.0,confirmed,"2730 TONYA COURT APT. 347 TIFFANYSTAD, ID 29484",0.8,updated,(075)144-5700x057,0.615,suspect,pediatrics,1.0,confirmed,17888747356,0.95,confirmed,0.873
+PRV_164,Stacy Cook,1.0,confirmed,"301 MITCHELL VILLAGE EAST JEFFREYVIEW, IN 85814",0.83,updated,9482848369,0.6799999999999999,suspect,cardiology,1.0,confirmed,16339959885,0.95,confirmed,0.892
+PRV_165,Jerry Walters,1.0,confirmed,"71210 Samuel Curve Suite 927 Patrickborough, KS 86442",0.78,updated,347-023-5592x98192,0.7150000000000001,updated,cardiology,1.0,confirmed,16587754750,0.95,confirmed,0.889
+PRV_166,Erik Smith,1.0,confirmed,USS BROWN FPO AP 49786,0.94,confirmed,681.704.3949,0.645,suspect,dermatology,1.0,confirmed,15257598657,0.3,suspect,0.7769999999999999
+PRV_167,Daniel Dunn,1.0,confirmed,"279 JAMIE RUE SUITE 393 EDWARDVILLE, MO 57628",1.0,confirmed,2847633531,0.7150000000000001,updated,oncology,1.0,confirmed,17092423438,0.95,confirmed,0.933
+PRV_168,Lisa West,1.0,confirmed,"291 Brittany Crest Amandabury, NY 41622",0.79,updated,312.761.8503,0.6599999999999999,suspect,orthopedics,1.0,confirmed,12257525422,0.95,confirmed,0.8800000000000001
+PRV_169,Erica Williams,1.0,confirmed,"6513 CLAUDIA LOOP TURNERFURT, AK 37878",0.9,confirmed,+12978256171,0.915,confirmed,oncology,1.0,confirmed,13252932784,0.95,confirmed,0.953
+PRV_170,Jennifer Pittman,1.0,confirmed,"0249 DAVID PIKE DAVISSHIRE, KY 12055",0.87,updated,(623)037-1091x93386,0.6599999999999999,suspect,oncology,1.0,confirmed,18245730964,0.3,suspect,0.766
+PRV_171,Victor Kirby,1.0,confirmed,"9936 ALISHA STATION STEVENMOUTH, NY 36999",0.98,confirmed,(762)568-7690x91337,0.7150000000000001,updated,cardiology,1.0,confirmed,12888258055,0.95,confirmed,0.9289999999999999
+PRV_172,Erika Chavez,1.0,confirmed,"595 DANIEL RAPIDS SUITE 647 WEST SHEILAVIEW, MS 14405",0.84,updated,792.554.7430x382,0.69,suspect,dermatology,1.0,confirmed,18673311563,0.95,confirmed,0.8959999999999999
+PRV_173,Shannon Gonzalez,1.0,confirmed,UNIT 3135 BOX 4826 DPO AA 14587,0.98,confirmed,890-951-8076,0.6599999999999999,suspect,emergency,1.0,confirmed,17131630827,0.95,confirmed,0.9179999999999999
+PRV_174,Jeffrey Hale,1.0,confirmed,"90198 JENNIFER MOUNTAIN LAKE MICHAEL, NV 27464",0.98,confirmed,+13976386821,0.8500000000000001,updated,neurology,1.0,confirmed,13980178326,0.95,confirmed,0.9560000000000001
+PRV_175,Kristopher Ballard,1.0,confirmed,"7308 MARTINEZ TRAFFICWAY APT. 764 GAYSIDE, FL 88433",0.93,confirmed,9468409447,0.64,suspect,oncology,1.0,confirmed,19399522368,0.3,suspect,0.774
+PRV_176,Karina Velasquez,1.0,confirmed,Unit 7854 Box 2426 DPO AP 53991,0.78,updated,523.408.0034x6811,0.62,suspect,emergency,1.0,confirmed,12589134028,0.95,confirmed,0.8699999999999999
+PRV_177,Steven Valentine,1.0,confirmed,"50929 ANDREA FERRY CONLEYCHESTER, LA 40136",0.8,updated,743-852-1230,0.6599999999999999,suspect,emergency,1.0,confirmed,16465456563,0.95,confirmed,0.882
+PRV_178,Brittany Cooper,1.0,confirmed,USNV JOHNSON FPO AP 33362,0.8,updated,001-891-314-5697x62250,0.605,suspect,oncology,1.0,confirmed,13104208733,0.95,confirmed,0.8710000000000001
+PRV_179,Heidi King,1.0,confirmed,"72613 MITCHELL ROW SUITE 546 EAST KATELYN, CA 72173",1.0,confirmed,+12847966182,0.845,updated,orthopedics,1.0,confirmed,11100239465,0.95,confirmed,0.959
+PRV_180,Michael Harrison,1.0,confirmed,"3926 JEFFREY PASSAGE LAKE MICHEAL, NE 06578",0.95,confirmed,001-009-332-3265x515,0.7050000000000001,updated,emergency,1.0,confirmed,17719414734,0.95,confirmed,0.921
+PRV_181,Linda Blankenship,1.0,confirmed,"388 STEVEN JUNCTION DONALDLAND, AZ 33116",0.8,updated,001-685-263-7329x52732,0.69,suspect,pediatrics,1.0,confirmed,14378598236,0.95,confirmed,0.8879999999999999
+PRV_182,Charles Murphy,1.0,confirmed,"40533 ROWLAND CROSSING PORT CHRISTINESHIRE, GA 73928",0.91,confirmed,001-923-614-7192x278,0.615,suspect,emergency,1.0,confirmed,12821517445,0.95,confirmed,0.8949999999999999
+PRV_183,Christian Harrington,1.0,confirmed,UNIT 3948 BOX 1689 DPO AA 07341,0.81,updated,(032)591-1521,0.685,suspect,orthopedics,1.0,confirmed,12860444000,0.95,confirmed,0.889
+PRV_184,Elizabeth Foster,1.0,confirmed,"01383 SARAH RIVER SOUTH SHARONMOUTH, CA 99041",0.81,updated,637-059-1369x8964,0.625,suspect,neurology,1.0,confirmed,17213939989,0.3,suspect,0.747
+PRV_185,James Miller,1.0,confirmed,"11710 SUSAN FERRY SOUTH KATHY, MO 58967",0.84,updated,797-938-5675x49818,0.6599999999999999,suspect,pediatrics,1.0,confirmed,12833844903,0.95,confirmed,0.89
+PRV_186,David James,1.0,confirmed,"PSC 7039, BOX 1450 APO AE 96188",0.82,updated,095-174-1747,0.6950000000000001,suspect,neurology,1.0,confirmed,19736422635,0.95,confirmed,0.893
+PRV_187,Brenda Watson,1.0,confirmed,"048 SHELBY HARBOR APT. 861 NEW JOHN, TN 56854",0.86,updated,+11874482096,0.8400000000000001,updated,orthopedics,1.0,confirmed,18570078333,0.95,confirmed,0.93
+PRV_188,Austin Chaney,1.0,confirmed,"7433 GAINES UNDERPASS EAST LAURA, SD 81096",0.84,updated,001-772-950-2212x002,0.6799999999999999,suspect,neurology,1.0,confirmed,15153143596,0.3,suspect,0.764
+PRV_189,Abigail Espinoza,1.0,confirmed,"6546 LAMB FORD SUITE 181 LAKE MICHAELLAND, ME 47971",0.82,updated,058.809.2932,0.69,suspect,oncology,1.0,confirmed,13073289151,0.95,confirmed,0.892
+PRV_190,Jason Keith,1.0,confirmed,"0572 MICHAEL PLAINS DEREKCHESTER, UT 66060",0.98,confirmed,401-549-3143x244,0.62,suspect,emergency,1.0,confirmed,12730378179,0.3,suspect,0.78
+PRV_191,Terry Thompson,1.0,confirmed,"9564 RAMOS PLACE JACKSONLAND, MA 62482",0.89,updated,+14381506064,0.815,updated,cardiology,1.0,confirmed,14324047498,0.95,confirmed,0.931
+PRV_192,April Ruiz,1.0,confirmed,"4556 DAVID EXTENSIONS APT. 482 PORT CAROLFURT, AR 78677",0.95,confirmed,015.189.6579x55271,0.6950000000000001,suspect,neurology,1.0,confirmed,16784547907,0.95,confirmed,0.9189999999999999
+PRV_193,Travis Jordan,1.0,confirmed,"9400 Garza Union Adamfurt, TN 61053",0.77,updated,5889376735,0.685,suspect,neurology,1.0,confirmed,11817151629,0.95,confirmed,0.881
+PRV_194,Sherry Green,1.0,confirmed,"769 DELGADO CRESCENT PORT RONALD, NJ 15305",0.85,updated,001-438-530-7880x61228,0.69,suspect,dermatology,1.0,confirmed,18323548917,0.95,confirmed,0.898
+PRV_195,Derek Vaughn,1.0,confirmed,UNIT 2302 BOX 5695 DPO AE 66709,0.93,confirmed,001-263-944-5239,0.64,suspect,oncology,1.0,confirmed,13069776966,0.95,confirmed,0.9039999999999999
+PRV_196,William Gibson,1.0,confirmed,"7696 BLACK CRESCENT CASEYTOWN, AR 98616",0.81,updated,001-610-148-5611x23809,0.63,suspect,cardiology,1.0,confirmed,14293617158,0.95,confirmed,0.8779999999999999
+PRV_197,Kimberly Bennett,1.0,confirmed,"293 KIMBERLY MILLS SMITHFORT, OK 61928",0.82,updated,001-579-064-8206x303,0.725,updated,cardiology,1.0,confirmed,16329672331,0.95,confirmed,0.899
+PRV_198,Mercedes Ware,1.0,confirmed,"50827 Le Coves Suite 895 West Walter, ID 30460",0.78,updated,208-305-0513,0.6699999999999999,suspect,oncology,1.0,confirmed,14087194767,0.95,confirmed,0.8800000000000001
+PRV_199,Justin Dennis,1.0,confirmed,"6140 ELIZABETH GROVES SUITE 944 LAKE JENNIFERSIDE, OH 61962",0.89,updated,503.594.5733x56175,0.635,suspect,cardiology,1.0,confirmed,12605715690,0.95,confirmed,0.8949999999999999
+PRV_200,Angela Holland,1.0,confirmed,"64933 MARK LODGE CAMERONVIEW, VA 56176",0.85,updated,(583)785-0379,0.62,suspect,oncology,1.0,confirmed,19581100912,0.95,confirmed,0.884

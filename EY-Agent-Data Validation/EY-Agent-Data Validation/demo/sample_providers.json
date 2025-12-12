@@ -1,0 +1,20 @@
+[
+  {
+    "provider_id": "PRV_001",
+    "name": "Dr. John Smith MD",
+    "address": "123 Main St, Boston, MA 02101",
+    "phone": "+1-617-555-1234",
+    "specialty": "Internal Medicine",
+    "npi": "1234567890",
+    "email": "john.smith@clinic.com"
+  },
+  {
+    "provider_id": "PRV_002",
+    "name": "Dr. Sarah Johnson",
+    "address": "456 Oak Ave, Dallas TX",
+    "phone": "214-555-6789",
+    "specialty": "Cardiology",
+    "npi": null,
+    "email": "sarah.johnson@heartcare.org"
+  }
+]

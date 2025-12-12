@@ -1,0 +1,16 @@
+{
+  "total_processed": 200,
+  "manual_review_rate": 91.0,
+  "auto_resolve_rate": 9.0,
+  "manual_review_count": 182,
+  "auto_resolve_count": 18,
+  "top_error_types": {
+    "specialty_mismatch": 196,
+    "license_state_mismatch": 177,
+    "specialty_change": 166,
+    "inactive_license_in_network": 109,
+    "address_mismatch": 36
+  },
+  "target_review_rate": "10-20%",
+  "within_target": false
+}

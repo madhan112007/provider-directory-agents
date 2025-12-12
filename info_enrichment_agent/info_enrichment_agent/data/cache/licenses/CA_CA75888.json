@@ -1,0 +1,13 @@
+{
+  "license_status": "Active",
+  "expiration_date": "2026-06-06",
+  "issue_date": "2014-03-13",
+  "license_type": "Medical License",
+  "disciplinary_actions": 2,
+  "verified": true,
+  "notes": "Mock data for demonstration",
+  "license_number": "CA75888",
+  "state": "CA",
+  "check_method": "Mock",
+  "check_confidence": 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "license_status": "Inactive",
+  "expiration_date": "2025-07-11",
+  "issue_date": "2013-03-07",
+  "license_type": "Medical Doctor",
+  "disciplinary_actions": 0,
+  "verified": false,
+  "notes": "Mock data for demonstration",
+  "license_number": "WA74048",
+  "state": "WA",
+  "check_method": "Mock",
+  "check_confidence": 0.5
+}

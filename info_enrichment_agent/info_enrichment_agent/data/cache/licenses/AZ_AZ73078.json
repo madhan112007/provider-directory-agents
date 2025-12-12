@@ -1,0 +1,13 @@
+{
+  "license_status": "Active",
+  "expiration_date": "2027-01-23",
+  "issue_date": "2016-02-19",
+  "license_type": "Medical Doctor",
+  "disciplinary_actions": 0,
+  "verified": true,
+  "notes": "Mock data for demonstration",
+  "license_number": "AZ73078",
+  "state": "AZ",
+  "check_method": "Mock",
+  "check_confidence": 0.5
+}

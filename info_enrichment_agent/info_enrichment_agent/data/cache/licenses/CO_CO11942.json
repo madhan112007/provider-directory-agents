@@ -1,0 +1,13 @@
+{
+  "license_status": "Active",
+  "expiration_date": "2027-06-20",
+  "issue_date": "2022-07-25",
+  "license_type": "Medical Doctor",
+  "disciplinary_actions": 0,
+  "verified": true,
+  "notes": "Mock data for demonstration",
+  "license_number": "CO11942",
+  "state": "CO",
+  "check_method": "Mock",
+  "check_confidence": 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "license_status": "Inactive",
+  "expiration_date": "2023-10-06",
+  "issue_date": "2022-07-04",
+  "license_type": "Medical Doctor",
+  "disciplinary_actions": 0,
+  "verified": false,
+  "notes": "Mock data for demonstration",
+  "license_number": "CA84446",
+  "state": "CA",
+  "check_method": "Mock",
+  "check_confidence": 0.5
+}

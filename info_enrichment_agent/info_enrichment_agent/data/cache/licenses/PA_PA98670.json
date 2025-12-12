@@ -1,0 +1,13 @@
+{
+  "license_status": "Expired",
+  "expiration_date": "2024-11-24",
+  "issue_date": "2022-03-12",
+  "license_type": "Medical Doctor",
+  "disciplinary_actions": 0,
+  "verified": false,
+  "notes": "Mock data for demonstration",
+  "license_number": "PA98670",
+  "state": "PA",
+  "check_method": "Mock",
+  "check_confidence": 0.5
+}

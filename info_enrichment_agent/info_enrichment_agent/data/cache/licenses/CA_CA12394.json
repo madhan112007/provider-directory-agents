@@ -1,0 +1,13 @@
+{
+  "license_status": "Active",
+  "expiration_date": "2028-01-10",
+  "issue_date": "2019-10-13",
+  "license_type": "Medical License",
+  "disciplinary_actions": 0,
+  "verified": true,
+  "notes": "Mock data for demonstration",
+  "license_number": "CA12394",
+  "state": "CA",
+  "check_method": "Mock",
+  "check_confidence": 0.5
+}

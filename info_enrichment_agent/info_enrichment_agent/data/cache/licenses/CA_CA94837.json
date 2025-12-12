@@ -1,0 +1,13 @@
+{
+  "license_status": "Expired",
+  "expiration_date": "2024-10-20",
+  "issue_date": "2018-02-09",
+  "license_type": "Medical Doctor",
+  "disciplinary_actions": 0,
+  "verified": false,
+  "notes": "Mock data for demonstration",
+  "license_number": "CA94837",
+  "state": "CA",
+  "check_method": "Mock",
+  "check_confidence": 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "license_status": "Active",
+  "expiration_date": "2027-04-21",
+  "issue_date": "2014-11-10",
+  "license_type": "Medical Doctor",
+  "disciplinary_actions": 0,
+  "verified": true,
+  "notes": "Mock data for demonstration",
+  "license_number": "DC68236",
+  "state": "WA",
+  "check_method": "Mock",
+  "check_confidence": 0.5
+}

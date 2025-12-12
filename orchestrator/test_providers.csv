@@ -1,0 +1,6 @@
+provider_id,name,npi,phone,address,specialty,state
+P001,Dr. John Smith,1234567890,555-123-4567,123 Main St Boston MA,Cardiology,MA
+P002,Dr. Jane Doe,9876543210,555-987-6543,456 Oak Ave New York NY,Pediatrics,NY
+P003,Dr. Bob Johnson,4567891230,555-456-7891,789 Pine Rd Chicago IL,Orthopedics,IL
+P004,Dr. Alice Williams,3216549870,555-321-6549,321 Elm St Miami FL,Dermatology,FL
+P005,Dr. Charlie Brown,7891234560,555-789-1234,654 Maple Dr Dallas TX,Neurology,TX

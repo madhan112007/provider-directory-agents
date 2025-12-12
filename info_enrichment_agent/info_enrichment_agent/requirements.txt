@@ -1,0 +1,22 @@
+# Core dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Web/API
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Data processing
+python-dotenv>=1.0.0
+openpyxl>=3.1.0  # For Excel files
+
+# Address and phone parsing
+usaddress>=0.5.10
+phonenumbers>=8.13.0
+python-dateutil>=2.8.2
+
+# Geography (optional - for gap analysis)
+geopy>=2.4.0
+
+# Development
+tqdm>=4.66.0  # Progress bars
