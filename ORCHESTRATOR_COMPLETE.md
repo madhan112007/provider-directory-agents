@@ -2,7 +2,7 @@
 
 ## 📦 What's Been Delivered
 
-Your complete **Provider Directory AI Orchestration Layer** is ready! This system coordinates all 4 agents with a modern UI and REST API.
+**Provider Directory AI Orchestration Layer** is ready! This system coordinates all 4 agents with a modern UI and REST API.
 
 ## 🚀 Quick Start (3 Steps)
 
